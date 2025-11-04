@@ -1,0 +1,11 @@
+THREAT DETECTED IN KEYLOG!
+
+Label: THREAT
+Probability: 0.612
+Threat Text Preview: i want to k\x13 no...
+
+Full keylog file attached.
+
+
+Full keylog content:
+i want to k\x13 no
