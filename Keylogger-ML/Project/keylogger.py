@@ -50,7 +50,7 @@ email_address = ""
 password = "" 
 username = getpass.getuser()
 
-toaddr = "jasminejoyous7@gmail.com"
+toaddr = ""
 
 key = ""  # Generate an encryption key from the Cryptography folder
 
